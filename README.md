@@ -1,1 +1,1 @@
-# rsschool-cv
+[Link to CV](https://DenisTmenov.github.io/rsschool-cv/cv)
