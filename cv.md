@@ -6,3 +6,25 @@
 
 ***I want to understand how to write programs on Android, how the applications are built.
 I want to remember Kotlin.***
+
+## Skills
+* Java 
+* Spring (SpringBoot, Spring-mvc, Spring-jdbc ...)
+* REST
+* Maven 
+* Gradle
+* Hibernate
+* Oracle DB
+* Mongo DB
+* MySQL
+* EJB
+* JPA
+* JSP 
+* Freemarker 
+* Liquibase 
+* FlyWay
+* JUnit 
+* Mockito
+* Apache TomCat
+* Bootstrap
+* Kotlin
