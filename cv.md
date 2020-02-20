@@ -32,3 +32,6 @@ I want to remember Kotlin.***
 ### Code example (in free access)
 https://github.com/DenisTmenov/mtp
 
+### Experience
+Software Developer in EPAM (2019 - now)<br/>
+Software Developer in Todes (2018 - 2019)
