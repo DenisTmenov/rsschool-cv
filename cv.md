@@ -35,3 +35,7 @@ https://github.com/DenisTmenov/mtp
 ### Experience
 Software Developer in EPAM (2019 - now)<br/>
 Software Developer in Todes (2018 - 2019)
+
+### Education
+Belarusian State University - developer (2017 - 2019)<br/>
+Belarusian National Technical University - civil engineer  (2006 - 2011)
