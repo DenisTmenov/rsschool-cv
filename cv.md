@@ -39,3 +39,6 @@ Software Developer in Todes (2018 - 2019)
 ### Education
 Belarusian State University - developer (2017 - 2019)<br/>
 Belarusian National Technical University - civil engineer  (2006 - 2011)
+
+### English
+A2-B1 - conversations with the customer
